@@ -14,4 +14,4 @@
 
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](linkedin.com/in/veera-srujan-0a966224a)
 
-![](https://github-readme-stats.vercel.app/api?username=AkashMadanu&show_icons=true&theme=cobalt)
+![](https://github-readme-stats.vercel.app/api?username=Srujanveera2325&show_icons=true&theme=cobalt)
