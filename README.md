@@ -2,7 +2,7 @@
 
 ### Languages and Tools 🖥 
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,HTML5,CSS,Javascript,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,HTML5,CSS,JavaScript,github&theme=dark)](https://skillicons.dev)
 
  🌱 I’m currently learning  Full Stack Web Development
 - 🧪 INTERMEDIATE -HTML5, CSS,C++,Java,C
